@@ -1,0 +1,2 @@
+# splitwise
+Cash Flow Minimiser
